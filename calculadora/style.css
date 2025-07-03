@@ -17,6 +17,7 @@ body {
     position: absolute;
     top: 0;
     left: 0px;
+    font-size: 25px;
 }
 
 .voltar button {
@@ -68,9 +69,6 @@ button {
     transition: background 0.3s;
 }
 
-button:hover {
-    background: #666;
-}
 
 .igual {
     grid-column: span 2;
